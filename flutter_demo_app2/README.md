@@ -42,7 +42,7 @@ A comprehensive Flutter mobile application created for the BDCC (Big Data & Clou
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hanane1109/flutter-bdcc-demo.git
+   git clone https://github.com/hanane1109/flutter_demo_app2.git
    cd flutter-bdcc-demo
    ```
 
